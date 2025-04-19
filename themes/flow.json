@@ -28,7 +28,7 @@
         "ghost_element.selected": "#1e242e",
         "ghost_element.disabled": "#3e4452",
         "text": "#d7dae0",
-        "text.muted": "#abb2bf",
+        "text.muted": "#b0b8c5",
         "text.placeholder": "#697082",
         "text.disabled": "#495162",
         "text.accent": "#5ab0f6",
@@ -141,7 +141,7 @@
         "players": [],
         "syntax": {
           "comment": {
-            "color": "#5c6370",
+            "color": "#6b7280",
             "font_style": "italic"
           },
           "attribute": {
@@ -152,12 +152,12 @@
           "constant": {
             "color": "#e5c07b",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 600
           },
           "constructor": {
             "color": "#e06c75",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 600
           },
           "embedded": {
             "color": "#abb2bf",
@@ -166,13 +166,13 @@
           },
           "function": {
             "color": "#61afef",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "keyword": {
             "color": "#c678dd",
             "font_style": "italic",
-            "font_weight": 700
+            "font_weight": 600
           },
           "number": {
             "color": "#e5c07b",
@@ -180,7 +180,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#abb2bf",
+            "color": "#d7dae0",
             "font_style": null,
             "font_weight": null
           },
@@ -197,7 +197,7 @@
           "string.escape": {
             "color": "#56b6c2",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 600
           },
           "string.regex": {
             "color": "#98c379",
@@ -212,7 +212,7 @@
           "string.special.symbol": {
             "color": "#56b6c2",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 600
           },
           "tag": {
             "color": "#e06c75",
@@ -227,10 +227,10 @@
           "type": {
             "color": "#e5c07b",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 600
           },
           "variable": {
-            "color": "#abb2bf",
+            "color": "#d7dae0",
             "font_style": null,
             "font_weight": null
           },
