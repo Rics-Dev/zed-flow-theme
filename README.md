@@ -12,7 +12,3 @@ This theme provides a dark, flow-inspired color scheme for Zed.
 ## Author
 
 - Ric's Dev <ricdev.io@gmail.com>
-
-## Repository
-
-[https://github.com/Rics-Dev/zed-flow-theme](https://github.com/Rics-Dev/zed-flow-theme)
