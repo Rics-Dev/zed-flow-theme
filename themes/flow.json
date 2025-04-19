@@ -105,7 +105,7 @@
         "deleted": "#ff616e",
         "deleted.background": "#572a32",
         "deleted.border": "#ef5f6b",
-        "error": "#ff616e",
+        "error": "#ff4757",
         "error.background": "#0F1219",
         "error.border": "#c24038",
         "hidden": "#636b78",
@@ -171,7 +171,7 @@
           },
           "keyword": {
             "color": "#c678dd",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": 600
           },
           "number": {
