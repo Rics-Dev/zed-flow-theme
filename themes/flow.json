@@ -37,7 +37,7 @@
         "icon.disabled": "#495162",
         "icon.placeholder": "#697082",
         "icon.accent": "#5ab0f6",
-        "status_bar.background": "#0F1219",
+        "status_bar.background": "#0F1219",  
         "title_bar.background": "#0F1219",
         "toolbar.background": "#0F1219",
         "tab_bar.background": "#0F1219",
@@ -142,7 +142,8 @@
         "syntax": {
           "comment": {
             "color": "#6b7280",
-            "font_style": "italic"
+            "font_style": "italic",
+            "font_weight": null
           },
           "attribute": {
             "color": "#d19a66",
@@ -225,12 +226,12 @@
             "font_weight": null
           },
           "type": {
-            "color": "#e5c07b",
+            "color": "#c678dd",
             "font_style": null,
             "font_weight": 600
           },
           "variable": {
-            "color": "#d7dae0",
+            "color": "#abb2bf",
             "font_style": null,
             "font_weight": null
           },
