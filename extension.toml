@@ -1,6 +1,6 @@
 id = "flow-theme"
 name = "Flow Theme"
-version = "1.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Ric's Dev <ricdev.io@gmail.com>"]
 description = "Flow Theme for Zed"
